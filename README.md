@@ -22,11 +22,9 @@ Project View Colorizerは、Unityのプロジェクトビューをカスタマ�
 ## 使用方法
 
 1. Unityのメニューから "Tools > ProjectViewColorizer > Configure" を選択します。
-![image](images\configure.png)
 2. 設定ウィンドウで、カラーグループを追加・編集・削除します。
 3. "設定を保存" ボタンをクリックして変更を適用します。
 4. "Tools > ProjectViewColorizer > Active" をクリックして機能を有効/無効にします。
-![image](images\active.png)
 
 ### おすすめ設定の作成
 
